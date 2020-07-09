@@ -1,4 +1,10 @@
-### Hi there 👋
+### I work as a Creative Developer for [@LocomotiveMTL](https://github.com/locomotivemtl) in Montreal (Quebec, Canada).<br>Also, I’m obsessed with Analog photography.
+
+Website: [jeremy-minie.com](https://jeremy-minie.com)<br>
+Instagram: [@jeremy.darkroom](https://instagram.com/jeremy.darkroom)<br>
+Twitter: [@Jerek0](https://twitter.com/Jerek0)<br>
+Awwwards: [Jerek0](https://www.awwwards.com/Jerek0/) & [Locomotive](https://www.awwwards.com/locomotive/)
+
 
 <!--
 **Jerek0/Jerek0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
